@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Lays Classic Potato Chips",
+    "price": 2.99,
+    "image": "https://www.lays.com/sites/lays.com/files/2020-11/lays-bbq.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Oreo Original Cookies",
+    "price": 3.49,
+    "image": "https://images.heb.com/is/image/HEBGrocery/000117832-1"
+  },
+  {
+    "id": 3,
+    "name": "Nature Valley Crunchy Granola Bars",
+    "price": 4.29,
+    "image": "https://images.heb.com/is/image/HEBGrocery/000135694-1"
+  },
+  {
+    "id": 4,
+    "name": "Cheetos Crunchy",
+    "price": 3.19,
+    "image": "https://images.heb.com/is/image/HEBGrocery/000124296-1"
+  },
+  {
+    "id": 5,
+    "name": "Snickers Chocolate Bar",
+    "price": 1.49,
+    "image": "https://images.heb.com/is/image/HEBGrocery/000121398-1"
+  },
+  {
+    "id": 6,
+    "name": "KIND Dark Chocolate Nuts & Sea Salt Bar",
+    "price": 1.99,
+    "image": "https://images.heb.com/is/image/HEBGrocery/002558786-1"
+  },
+  {
+    "id": 7,
+    "name": "Doritos Nacho Cheese Chips",
+    "price": 3.29,
+    "image": "https://images.heb.com/is/image/HEBGrocery/000129683-1"
+  },
+  {
+    "id": 8,
+    "name": "Ritz Crackers",
+    "price": 2.99,
+    "image": "https://images.heb.com/is/image/HEBGrocery/000123106-1"
+  },
+  {
+    "id": 9,
+    "name": "Goldfish Cheddar Crackers",
+    "price": 2.79,
+    "image": "https://images.heb.com/is/image/HEBGrocery/000124785-1"
+  },
+  {
+    "id": 10,
+    "name": "Welch’s Fruit Snacks",
+    "price": 3.49,
+    "image": "https://images.heb.com/is/image/HEBGrocery/000135836-1"
+  }
+]
