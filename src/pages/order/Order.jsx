@@ -5,14 +5,27 @@ import OrderSummary from "./components/OrderSummary";
 import products from "./products.json";
 
 export default function Order() {
-  const [order, setOrder] = useState([]);
+  const [order, setOrder] = useState([
+    {
+      customer_name: "John Doe",
+      total: 100,
+      products: [
+        {
+          product_id: 1,
+          quantity: 2,
+          price: 50,
+        },
+      ],
+      status: "pending",
+    },
+  ]);
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-6 flex-grow">
       <CreateOrder setOrder={setOrder} products={products} />
 
       <div className="md:col-span-2 h-[calc(100vh_-_130px)]">
         <OrderSummary orders={order} />
-        <OrderReports orders={order} />
+        <OrderReports orders={order} setOrders={setOrder} />
       </div>
     </div>
   );
