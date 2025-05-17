@@ -1,4 +1,5 @@
 import { useState } from "react";
+import placeholderImage from "../../../assets/images/placeholder-image.jpg";
 export default function CreateOrder({ setOrder, products }) {
   //   const [selectedProducts, setSelectedProducts] = useState([
   //     {
@@ -63,6 +64,9 @@ export default function CreateOrder({ setOrder, products }) {
   };
 
   const handlePlaceOrder = () => {
+    if (selectedProducts.length === 0 || customerName === "") {
+      return;
+    }
     setOrder((prev) => [
       ...prev,
       {
@@ -108,7 +112,7 @@ export default function CreateOrder({ setOrder, products }) {
               <div className="flex items-center">
                 <div className="w-12 h-12 flex items-center justify-center mr-3">
                   <img
-                    src={product.image}
+                    src={product.image || placeholderImage}
                     alt={product.name}
                     className="w-10 h-10"
                   />

@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "name": "Lays Classic Potato Chips",
-    "price": 2.99,
-    "image": "https://www.lays.com/sites/lays.com/files/2020-11/lays-bbq.jpg"
+    "name": "Shingara",
+    "price": 15,
+    "image": "https://i0.wp.com/www.spiceandcolour.com/wp-content/uploads/2020/06/receta-samosas-vegetales-01.jpg?w=1140&ssl=1"
   },
   {
     "id": 2,
-    "name": "Oreo Original Cookies",
-    "price": 3.49,
-    "image": "https://images.heb.com/is/image/HEBGrocery/000117832-1"
+    "name": "Beef/Chicken Roll",
+    "price": 50,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyKHHWrNpbd-vfOLGgxv2rVVCRO5_HnVtFNA&s"
   },
   {
     "id": 3,
-    "name": "Nature Valley Crunchy Granola Bars",
-    "price": 4.29,
-    "image": "https://images.heb.com/is/image/HEBGrocery/000135694-1"
+    "name": "Fuchka (Panipuri)",
+    "price": 40,
+    "image": "https://media.licdn.com/dms/image/v2/D4E22AQG5j806RbLeug/feedshare-shrink_800/feedshare-shrink_800/0/1686204806137?e=2147483647&v=beta&t=BKIVDv1MhtfcWilW4NU4kuqYmMnWLoctLT2AHoOLgWo"
   },
   {
     "id": 4,
-    "name": "Cheetos Crunchy",
-    "price": 3.19,
-    "image": "https://images.heb.com/is/image/HEBGrocery/000124296-1"
+    "name": "Chotpoti",
+    "price": 35,
+    "image": "https://aram.com.bd/public/uploads/all/FzMvYINhqxZyvMvKBtgdLEFHN1jWFe4zF5EIKHPj.jpg"
   },
   {
     "id": 5,
-    "name": "Snickers Chocolate Bar",
-    "price": 1.49,
-    "image": "https://images.heb.com/is/image/HEBGrocery/000121398-1"
+    "name": "Egg Devil (Dimer Chop)",
+    "price": 30,
+    "image": ""
   },
   {
     "id": 6,
-    "name": "KIND Dark Chocolate Nuts & Sea Salt Bar",
-    "price": 1.99,
-    "image": "https://images.heb.com/is/image/HEBGrocery/002558786-1"
+    "name": "Jhalmuri",
+    "price": 20,
+    "image": ""
   },
   {
     "id": 7,
-    "name": "Doritos Nacho Cheese Chips",
-    "price": 3.29,
-    "image": "https://images.heb.com/is/image/HEBGrocery/000129683-1"
+    "name": "Chicken Burger (Deshi Style)",
+    "price": 80,
+    "image": ""
   },
   {
     "id": 8,
-    "name": "Ritz Crackers",
-    "price": 2.99,
-    "image": "https://images.heb.com/is/image/HEBGrocery/000123106-1"
+    "name": "Chicken Shawarma",
+    "price": 100,
+    "image": ""
   },
   {
     "id": 9,
-    "name": "Goldfish Cheddar Crackers",
-    "price": 2.79,
-    "image": "https://images.heb.com/is/image/HEBGrocery/000124785-1"
+    "name": "Paratha with Egg & Vegetables",
+    "price": 25,
+    "image": ""
   },
   {
     "id": 10,
-    "name": "Welch’s Fruit Snacks",
-    "price": 3.49,
-    "image": "https://images.heb.com/is/image/HEBGrocery/000135836-1"
+    "name": "Singara Combo Box",
+    "price": 120,
+    "image": ""
   }
 ]
